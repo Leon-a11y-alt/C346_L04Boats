@@ -7,7 +7,7 @@ It is built with React Native (Expo) and uses a custom Boat component (component
 
 # ScreenShots of App
 Top page screenshot: <br>
-<img src="screenshots/top.png" width="300">
+<img src="screenshots/top.png" width="300" height="600">
 
 Bottom page screenshot: <br>
 <img src="screenshots/bottom.png" width="300">
